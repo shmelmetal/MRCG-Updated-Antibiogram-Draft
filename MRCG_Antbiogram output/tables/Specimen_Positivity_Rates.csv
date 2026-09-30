@@ -1,0 +1,18 @@
+Specimen Type,Infection,n,%
+Aspirate,Negative,503,86
+Aspirate,Positive,82,14
+Blood Culture,Negative,3961,90.6
+Blood Culture,Positive,409,9.4
+CSF,Negative,224,97.8
+CSF,Positive,5,2.2
+Semen,Negative,9,90
+Semen,Positive,1,10
+Skin Scraping,Positive,3,100
+Sputum,Negative,577,64.8
+Sputum,Positive,313,35.2
+Stool,Negative,511,97.9
+Stool,Positive,11,2.1
+Swab,Negative,401,42.8
+Swab,Positive,537,57.2
+Urine,Negative,2762,84.2
+Urine,Positive,517,15.8

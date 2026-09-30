@@ -1,0 +1,20 @@
+culture_clean,year,MRSA,MRSA (%),ESBL,ESBL (%),AmpC,AmpC (%),n
+Escherichia coli,2020,0,0,5,7.7,0,0,65
+Escherichia coli,2021,0,0,7,13.7,0,0,51
+Escherichia coli,2022,0,0,5,8.6,0,0,58
+Escherichia coli,2023,0,0,5,9.4,0,0,53
+Escherichia coli,2024,0,0,4,8.2,0,0,49
+Escherichia coli,2025,0,0,10,30.3,0,0,33
+Klebsiella pneumoniae,2020,0,0,7,28,0,0,25
+Klebsiella pneumoniae,2021,0,0,5,19.2,0,0,26
+Klebsiella pneumoniae,2022,0,0,4,18.2,0,0,22
+Klebsiella pneumoniae,2023,0,0,1,3.6,0,0,28
+Klebsiella pneumoniae,2024,0,0,2,5.3,0,0,38
+Klebsiella pneumoniae,2025,0,0,6,17.1,0,0,35
+Pseudomonas aeruginosa,2021,0,0,2,15.4,0,0,13
+Staphylococcus aureus,2020,1,1.3,0,0,0,0,79
+Staphylococcus aureus,2021,5,9.6,1,1.9,0,0,52
+Staphylococcus aureus,2022,4,8.9,0,0,0,0,45
+Staphylococcus aureus,2023,4,10.5,1,2.6,0,0,38
+Staphylococcus aureus,2024,2,6.9,0,0,0,0,29
+Staphylococcus aureus,2025,8,19,0,0,0,0,42

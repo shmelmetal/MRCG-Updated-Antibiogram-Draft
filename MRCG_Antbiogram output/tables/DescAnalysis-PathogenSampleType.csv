@@ -1,0 +1,224 @@
+Culture,Sample Type,Specimen Class,n,% (n/Sample Type Total)
+Urine,Escherichia coli,Non-Invasive,227,43.907156673114116
+Swab,Staphylococcus aureus,Non-Invasive,174,32.402234636871505
+Sputum,Candida spp.,Non-Invasive,106,33.86581469648562
+Swab,Candida spp.,Non-Invasive,87,16.201117318435752
+Urine,Klebsiella pneumoniae,Non-Invasive,78,15.087040618955513
+Blood Culture,Staphylococcus aureus,Invasive,76,18.581907090464547
+Blood Culture,Micrococcus spp.,Invasive,71,17.359413202933986
+Urine,Candida spp.,Non-Invasive,53,10.251450676982591
+Sputum,Klebsiella pneumoniae,Non-Invasive,51,16.293929712460063
+Urine,Coliform spp.,Non-Invasive,51,9.864603481624759
+Blood Culture,Escherichia coli,Invasive,50,12.224938875305623
+Swab,Group A Streptococcus,Non-Invasive,46,8.56610800744879
+Swab,Pseudomonas aeruginosa,Non-Invasive,46,8.56610800744879
+Sputum,Pseudomonas aeruginosa,Non-Invasive,40,12.779552715654951
+Blood Culture,Salmonella spp.,Invasive,28,6.845965770171149
+Blood Culture,Streptococcus pneumoniae,Invasive,24,5.8679706601467
+Aspirate,Staphylococcus aureus,Invasive,21,25.609756097560975
+Blood Culture,Klebsiella pneumoniae,Invasive,19,4.645476772616137
+Swab,Proteus spp.,Non-Invasive,19,3.5381750465549344
+Swab,Proteus mirabilis,Non-Invasive,18,3.35195530726257
+Swab,Pseudomonas spp.,Non-Invasive,18,3.35195530726257
+Swab,Escherichia coli,Non-Invasive,17,3.165735567970205
+Swab,Klebsiella pneumoniae,Non-Invasive,15,2.793296089385475
+Sputum,Aspergillus fumigatus,Non-Invasive,13,4.15335463258786
+Sputum,Coliform spp.,Non-Invasive,13,4.15335463258786
+Swab,Coliform spp.,Non-Invasive,13,2.4208566108007448
+Urine,Group B Streptococcus,Non-Invasive,13,2.5145067698259185
+Blood Culture,Streptococcus spp.,Invasive,12,2.93398533007335
+Aspirate,Klebsiella pneumoniae,Invasive,11,13.414634146341465
+Swab,Aspergillus fumigatus,Non-Invasive,11,2.0484171322160147
+Blood Culture,Enterococcus spp.,Invasive,10,2.444987775061125
+Blood Culture,Group A Streptococcus,Invasive,10,2.444987775061125
+Sputum,Aspergillus niger,Non-Invasive,10,3.1948881789137378
+Blood Culture,Candida spp.,Invasive,9,2.2004889975550124
+Blood Culture,Corynebacterium spp.,Invasive,9,2.2004889975550124
+Aspirate,Escherichia coli,Invasive,8,9.75609756097561
+Sputum,Enterobacter cloacae,Non-Invasive,8,2.5559105431309903
+Sputum,Haemophilus influenzae,Non-Invasive,8,2.5559105431309903
+Sputum,Staphylococcus aureus,Non-Invasive,8,2.5559105431309903
+Swab,Streptococcus spp.,Non-Invasive,8,1.48975791433892
+Urine,Raoultella ornithinolytica,Non-Invasive,8,1.5473887814313347
+Blood Culture,Acinetobacter baumannii,Invasive,7,1.7114914425427872
+Urine,Enterobacter cloacae,Non-Invasive,7,1.3539651837524178
+Urine,Klebsiella spp.,Non-Invasive,7,1.3539651837524178
+Blood Culture,Enterobacter cloacae,Invasive,6,1.466992665036675
+Blood Culture,Micrococcus luteus,Invasive,6,1.466992665036675
+Blood Culture,Pseudomonas aeruginosa,Invasive,6,1.466992665036675
+Sputum,Streptococcus pneumoniae,Non-Invasive,6,1.9169329073482428
+Swab,Group B Streptococcus,Non-Invasive,6,1.1173184357541899
+Urine,Acinetobacter baumannii,Non-Invasive,6,1.160541586073501
+Urine,Pseudomonas aeruginosa,Non-Invasive,6,1.160541586073501
+Blood Culture,Haemophilus influenzae,Invasive,5,1.2224938875305624
+Sputum,Pseudomonas spp.,Non-Invasive,5,1.5974440894568689
+Stool,Salmonella spp.,Non-Invasive,5,45.45454545454545
+Swab,Acinetobacter baumannii,Non-Invasive,5,0.931098696461825
+Swab,Aspergillus niger,Non-Invasive,5,0.931098696461825
+Swab,Group C/G Streptococcus,Non-Invasive,5,0.931098696461825
+Swab,Proteus vulgaris,Non-Invasive,5,0.931098696461825
+Urine,,Non-Invasive,5,0.9671179883945842
+Urine,Staphylococcus aureus,Non-Invasive,5,0.9671179883945842
+Aspirate,Aspergillus fumigatus,Invasive,4,4.878048780487805
+Aspirate,Pseudomonas aeruginosa,Invasive,4,4.878048780487805
+Blood Culture,,Invasive,4,0.9779951100244498
+Blood Culture,Coliform spp.,Invasive,4,0.9779951100244498
+Sputum,Escherichia coli,Non-Invasive,4,1.2779552715654952
+Sputum,Streptococcus spp.,Non-Invasive,4,1.2779552715654952
+Swab,Enterococcus spp.,Non-Invasive,4,0.74487895716946
+Swab,Klebsiella oxytoca,Non-Invasive,4,0.74487895716946
+Urine,Morganella morganii,Non-Invasive,4,0.7736943907156674
+Aspirate,Haemophilus influenzae,Invasive,3,3.6585365853658534
+Aspirate,Proteus mirabilis,Invasive,3,3.6585365853658534
+Aspirate,Pseudomonas spp.,Invasive,3,3.6585365853658534
+Aspirate,Streptococcus pneumoniae,Invasive,3,3.6585365853658534
+Blood Culture,Enterococcus faecalis,Invasive,3,0.7334963325183375
+Blood Culture,Group B Streptococcus,Invasive,3,0.7334963325183375
+Blood Culture,Pseudomonas spp.,Invasive,3,0.7334963325183375
+CSF,Cryptococcus neoformans,Invasive,3,60
+Sputum,Klebsiella oxytoca,Non-Invasive,3,0.9584664536741214
+Stool,Shigella spp.,Non-Invasive,3,27.27272727272727
+Swab,Aspergillus spp.,Non-Invasive,3,0.5586592178770949
+Urine,Enterobacter spp.,Non-Invasive,3,0.5802707930367506
+Urine,Enterococcus spp.,Non-Invasive,3,0.5802707930367506
+Urine,Klebsiella aerogenes,Non-Invasive,3,0.5802707930367506
+Urine,Stenotrophomonas maltophilia,Non-Invasive,3,0.5802707930367506
+Urine,Vibrio fluvialis,Non-Invasive,3,0.5802707930367506
+Aspirate,Acinetobacter baumannii,Invasive,2,2.4390243902439024
+Aspirate,Salmonella spp.,Invasive,2,2.4390243902439024
+Aspirate,Streptococcus anginosus group,Invasive,2,2.4390243902439024
+Aspirate,Streptococcus spp.,Invasive,2,2.4390243902439024
+Blood Culture,Citrobacter freundii,Invasive,2,0.4889975550122249
+Blood Culture,Corynebacterium aurimucosum,Invasive,2,0.4889975550122249
+Blood Culture,Group C/G Streptococcus,Invasive,2,0.4889975550122249
+Blood Culture,Klebsiella aerogenes,Invasive,2,0.4889975550122249
+Blood Culture,Proteus mirabilis,Invasive,2,0.4889975550122249
+Blood Culture,Proteus spp.,Invasive,2,0.4889975550122249
+Blood Culture,Salmonella enterica,Invasive,2,0.4889975550122249
+Sputum,Acinetobacter baumannii,Non-Invasive,2,0.6389776357827476
+Sputum,Acinetobacter nosocomialis,Non-Invasive,2,0.6389776357827476
+Sputum,Citrobacter freundii,Non-Invasive,2,0.6389776357827476
+Sputum,Group A Streptococcus,Non-Invasive,2,0.6389776357827476
+Sputum,Proteus mirabilis,Non-Invasive,2,0.6389776357827476
+Sputum,Proteus spp.,Non-Invasive,2,0.6389776357827476
+Sputum,Pseudomonas oryzihabitans,Non-Invasive,2,0.6389776357827476
+Sputum,Stenotrophomonas maltophilia,Non-Invasive,2,0.6389776357827476
+Swab,Haemophilus influenzae,Non-Invasive,2,0.37243947858473
+Swab,Klebsiella spp.,Non-Invasive,2,0.37243947858473
+Swab,Morganella morganii,Non-Invasive,2,0.37243947858473
+Swab,Streptococcus anginosus group,Non-Invasive,2,0.37243947858473
+Urine,Acinetobacter nosocomialis,Non-Invasive,2,0.3868471953578337
+Urine,Enterococcus faecalis,Non-Invasive,2,0.3868471953578337
+Urine,Hafnia alvei,Non-Invasive,2,0.3868471953578337
+Urine,Klebsiella oxytoca,Non-Invasive,2,0.3868471953578337
+Urine,Pantoea spp.,Non-Invasive,2,0.3868471953578337
+Urine,Proteus mirabilis,Non-Invasive,2,0.3868471953578337
+Urine,Salmonella spp.,Non-Invasive,2,0.3868471953578337
+Urine,Staphylococcus saprophyticus,Non-Invasive,2,0.3868471953578337
+Urine,Yeast spp.,Non-Invasive,2,0.3868471953578337
+,,Non-Invasive,1,100
+Aspirate,,Invasive,1,1.2195121951219512
+Aspirate,Burkholderia cepacia complex,Invasive,1,1.2195121951219512
+Aspirate,Candida spp.,Invasive,1,1.2195121951219512
+Aspirate,Chromobacterium violaceum,Invasive,1,1.2195121951219512
+Aspirate,Enterococcus faecalis,Invasive,1,1.2195121951219512
+Aspirate,Group A Streptococcus,Invasive,1,1.2195121951219512
+Aspirate,Haemophilus spp.,Invasive,1,1.2195121951219512
+Aspirate,Pantoea spp.,Invasive,1,1.2195121951219512
+Aspirate,Pseudomonas luteola,Invasive,1,1.2195121951219512
+Aspirate,Salmonella enterica subsp. enterica,Invasive,1,1.2195121951219512
+Aspirate,Serratia odorifera,Invasive,1,1.2195121951219512
+Aspirate,Shewanella putrefaciens,Invasive,1,1.2195121951219512
+Aspirate,Stenotrophomonas maltophilia,Invasive,1,1.2195121951219512
+Aspirate,Trueperella bernardiae,Invasive,1,1.2195121951219512
+Blood Culture,Acinetobacter haemolyticus,Invasive,1,0.24449877750611246
+Blood Culture,Acinetobacter johnsonii,Invasive,1,0.24449877750611246
+Blood Culture,Acinetobacter junii/johnsonii,Invasive,1,0.24449877750611246
+Blood Culture,Acinetobacter lwoffii,Invasive,1,0.24449877750611246
+Blood Culture,Acinetobacter nosocomialis,Invasive,1,0.24449877750611246
+Blood Culture,Aeromonas hydrophila,Invasive,1,0.24449877750611246
+Blood Culture,Aeromonas salmonicida,Invasive,1,0.24449877750611246
+Blood Culture,Bacillus cereus,Invasive,1,0.24449877750611246
+Blood Culture,Burkholderia cepacia,Invasive,1,0.24449877750611246
+Blood Culture,Burkholderia pseudomallei,Invasive,1,0.24449877750611246
+Blood Culture,Citrobacter youngae,Invasive,1,0.24449877750611246
+Blood Culture,Corynebacterium amycolatum,Invasive,1,0.24449877750611246
+Blood Culture,Corynebacterium durum,Invasive,1,0.24449877750611246
+Blood Culture,Corynebacterium jeikeium,Invasive,1,0.24449877750611246
+Blood Culture,Enterobacter spp.,Invasive,1,0.24449877750611246
+Blood Culture,Enterococcus gallinarum,Invasive,1,0.24449877750611246
+Blood Culture,Hafnia alvei,Invasive,1,0.24449877750611246
+Blood Culture,Klebsiella oxytoca,Invasive,1,0.24449877750611246
+Blood Culture,Kocuria rhizophila,Invasive,1,0.24449877750611246
+Blood Culture,Moraxella catarrhalis,Invasive,1,0.24449877750611246
+Blood Culture,Moraxella osloensis,Invasive,1,0.24449877750611246
+Blood Culture,Morganella morganii,Invasive,1,0.24449877750611246
+Blood Culture,Neisseria spp.,Invasive,1,0.24449877750611246
+Blood Culture,Pantoea spp.,Invasive,1,0.24449877750611246
+Blood Culture,Proteus vulgaris,Invasive,1,0.24449877750611246
+Blood Culture,Raoultella ornithinolytica,Invasive,1,0.24449877750611246
+Blood Culture,Salmonella Enteritidis,Invasive,1,0.24449877750611246
+Blood Culture,Salmonella Typhi,Invasive,1,0.24449877750611246
+Blood Culture,Streptococcus gallolyticus,Invasive,1,0.24449877750611246
+Blood Culture,Vibrio fluvialis,Invasive,1,0.24449877750611246
+CSF,Escherichia coli,Invasive,1,20
+CSF,Streptococcus pneumoniae,Invasive,1,20
+Semen,Escherichia coli,Non-Invasive,1,100
+Skin Scraping,,Non-Invasive,1,33.33333333333333
+Skin Scraping,Group A Streptococcus,Non-Invasive,1,33.33333333333333
+Skin Scraping,Staphylococcus aureus,Non-Invasive,1,33.33333333333333
+Sputum,,Non-Invasive,1,0.3194888178913738
+Sputum,Acinetobacter junii,Non-Invasive,1,0.3194888178913738
+Sputum,Acinetobacter spp.,Non-Invasive,1,0.3194888178913738
+Sputum,Alcaligenes faecalis,Non-Invasive,1,0.3194888178913738
+Sputum,Aspergillus spp.,Non-Invasive,1,0.3194888178913738
+Sputum,Enterobacter spp.,Non-Invasive,1,0.3194888178913738
+Sputum,Group C/G Streptococcus,Non-Invasive,1,0.3194888178913738
+Sputum,Haemophilus spp.,Non-Invasive,1,0.3194888178913738
+Sputum,Klebsiella aerogenes,Non-Invasive,1,0.3194888178913738
+Sputum,Klebsiella spp.,Non-Invasive,1,0.3194888178913738
+Sputum,Neisseria spp.,Non-Invasive,1,0.3194888178913738
+Sputum,Providencia rettgeri,Non-Invasive,1,0.3194888178913738
+Sputum,Pseudomonas luteola,Non-Invasive,1,0.3194888178913738
+Sputum,Pseudomonas putida,Non-Invasive,1,0.3194888178913738
+Sputum,Raoultella ornithinolytica,Non-Invasive,1,0.3194888178913738
+Sputum,Serratia ficaria,Non-Invasive,1,0.3194888178913738
+Sputum,Serratia liquefaciens,Non-Invasive,1,0.3194888178913738
+Sputum,Serratia marcescens,Non-Invasive,1,0.3194888178913738
+Stool,Escherichia coli,Non-Invasive,1,9.090909090909092
+Stool,Salmonella enterica subsp. enterica,Non-Invasive,1,9.090909090909092
+Stool,Shigella sonnei,Non-Invasive,1,9.090909090909092
+Swab,Acinetobacter johnsonii,Non-Invasive,1,0.186219739292365
+Swab,Acinetobacter pittii,Non-Invasive,1,0.186219739292365
+Swab,Acinetobacter spp.,Non-Invasive,1,0.186219739292365
+Swab,Citrobacter spp.,Non-Invasive,1,0.186219739292365
+Swab,Corynebacterium amycolatum,Non-Invasive,1,0.186219739292365
+Swab,Corynebacterium diphtheriae,Non-Invasive,1,0.186219739292365
+Swab,Dermabacter hominis,Non-Invasive,1,0.186219739292365
+Swab,Enterobacter cloacae,Non-Invasive,1,0.186219739292365
+Swab,Enterobacter kobei,Non-Invasive,1,0.186219739292365
+Swab,Enterococcus faecalis,Non-Invasive,1,0.186219739292365
+Swab,Micrococcus spp.,Non-Invasive,1,0.186219739292365
+Swab,Neisseria gonorrhoeae,Non-Invasive,1,0.186219739292365
+Swab,Providencia stuartii,Non-Invasive,1,0.186219739292365
+Swab,Pseudomonas luteola,Non-Invasive,1,0.186219739292365
+Swab,Pseudomonas oryzihabitans,Non-Invasive,1,0.186219739292365
+Swab,Salmonella spp.,Non-Invasive,1,0.186219739292365
+Swab,Serratia fonticola,Non-Invasive,1,0.186219739292365
+Swab,Serratia marcescens,Non-Invasive,1,0.186219739292365
+Swab,Stenotrophomonas maltophilia,Non-Invasive,1,0.186219739292365
+Swab,Vibrio parahaemolyticus,Non-Invasive,1,0.186219739292365
+Urine,Aeromonas salmonicida,Non-Invasive,1,0.19342359767891684
+Urine,Burkholderia cepacia,Non-Invasive,1,0.19342359767891684
+Urine,Burkholderia gladioli,Non-Invasive,1,0.19342359767891684
+Urine,Citrobacter freundii,Non-Invasive,1,0.19342359767891684
+Urine,Citrobacter koseri,Non-Invasive,1,0.19342359767891684
+Urine,Enterobacter hormaechei,Non-Invasive,1,0.19342359767891684
+Urine,Escherichia fergusonii,Non-Invasive,1,0.19342359767891684
+Urine,Kluyvera spp.,Non-Invasive,1,0.19342359767891684
+Urine,Micrococcus spp.,Non-Invasive,1,0.19342359767891684
+Urine,Proteus vulgaris,Non-Invasive,1,0.19342359767891684
+Urine,Providencia stuartii,Non-Invasive,1,0.19342359767891684
+Urine,Pseudomonas oryzihabitans,Non-Invasive,1,0.19342359767891684
+Urine,Serratia fonticola,Non-Invasive,1,0.19342359767891684
+Urine,Streptococcus pneumoniae,Non-Invasive,1,0.19342359767891684

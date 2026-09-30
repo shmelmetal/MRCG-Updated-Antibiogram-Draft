@@ -1,0 +1,145 @@
+culture_clean,specimen_class,n,pct
+,Invasive,5,38.5
+,Non-Invasive,8,61.5
+Acinetobacter baumannii,Invasive,9,40.9
+Acinetobacter baumannii,Non-Invasive,13,59.1
+Acinetobacter haemolyticus,Invasive,1,100
+Acinetobacter johnsonii,Invasive,1,50
+Acinetobacter johnsonii,Non-Invasive,1,50
+Acinetobacter junii,Non-Invasive,1,100
+Acinetobacter junii/johnsonii,Invasive,1,100
+Acinetobacter lwoffii,Invasive,1,100
+Acinetobacter nosocomialis,Invasive,1,20
+Acinetobacter nosocomialis,Non-Invasive,4,80
+Acinetobacter pittii,Non-Invasive,1,100
+Acinetobacter spp.,Non-Invasive,2,100
+Aeromonas hydrophila,Invasive,1,100
+Aeromonas salmonicida,Invasive,1,50
+Aeromonas salmonicida,Non-Invasive,1,50
+Alcaligenes faecalis,Non-Invasive,1,100
+Aspergillus fumigatus,Invasive,4,14.3
+Aspergillus fumigatus,Non-Invasive,24,85.7
+Aspergillus niger,Non-Invasive,15,100
+Aspergillus spp.,Non-Invasive,4,100
+Bacillus cereus,Invasive,1,100
+Burkholderia cepacia,Invasive,1,50
+Burkholderia cepacia,Non-Invasive,1,50
+Burkholderia cepacia complex,Invasive,1,100
+Burkholderia gladioli,Non-Invasive,1,100
+Burkholderia pseudomallei,Invasive,1,100
+Candida spp.,Invasive,10,3.9
+Candida spp.,Non-Invasive,246,96.1
+Chromobacterium violaceum,Invasive,1,100
+Citrobacter freundii,Invasive,2,40
+Citrobacter freundii,Non-Invasive,3,60
+Citrobacter koseri,Non-Invasive,1,100
+Citrobacter spp.,Non-Invasive,1,100
+Citrobacter youngae,Invasive,1,100
+Coliform spp.,Invasive,4,4.9
+Coliform spp.,Non-Invasive,77,95.1
+Corynebacterium amycolatum,Invasive,1,50
+Corynebacterium amycolatum,Non-Invasive,1,50
+Corynebacterium aurimucosum,Invasive,2,100
+Corynebacterium diphtheriae,Non-Invasive,1,100
+Corynebacterium durum,Invasive,1,100
+Corynebacterium jeikeium,Invasive,1,100
+Corynebacterium spp.,Invasive,9,100
+Cryptococcus neoformans,Invasive,3,100
+Dermabacter hominis,Non-Invasive,1,100
+Enterobacter cloacae,Invasive,6,27.3
+Enterobacter cloacae,Non-Invasive,16,72.7
+Enterobacter hormaechei,Non-Invasive,1,100
+Enterobacter kobei,Non-Invasive,1,100
+Enterobacter spp.,Invasive,1,20
+Enterobacter spp.,Non-Invasive,4,80
+Enterococcus faecalis,Invasive,4,57.1
+Enterococcus faecalis,Non-Invasive,3,42.9
+Enterococcus gallinarum,Invasive,1,100
+Enterococcus spp.,Invasive,10,58.8
+Enterococcus spp.,Non-Invasive,7,41.2
+Escherichia coli,Invasive,59,19.1
+Escherichia coli,Non-Invasive,250,80.9
+Escherichia fergusonii,Non-Invasive,1,100
+Group A Streptococcus,Invasive,11,18.3
+Group A Streptococcus,Non-Invasive,49,81.7
+Group B Streptococcus,Invasive,3,13.6
+Group B Streptococcus,Non-Invasive,19,86.4
+Group C/G Streptococcus,Invasive,2,25
+Group C/G Streptococcus,Non-Invasive,6,75
+Haemophilus influenzae,Invasive,8,44.4
+Haemophilus influenzae,Non-Invasive,10,55.6
+Haemophilus spp.,Invasive,1,50
+Haemophilus spp.,Non-Invasive,1,50
+Hafnia alvei,Invasive,1,33.3
+Hafnia alvei,Non-Invasive,2,66.7
+Klebsiella aerogenes,Invasive,2,33.3
+Klebsiella aerogenes,Non-Invasive,4,66.7
+Klebsiella oxytoca,Invasive,1,10
+Klebsiella oxytoca,Non-Invasive,9,90
+Klebsiella pneumoniae,Invasive,30,17.2
+Klebsiella pneumoniae,Non-Invasive,144,82.8
+Klebsiella spp.,Non-Invasive,10,100
+Kluyvera spp.,Non-Invasive,1,100
+Kocuria rhizophila,Invasive,1,100
+Micrococcus luteus,Invasive,6,100
+Micrococcus spp.,Invasive,71,97.3
+Micrococcus spp.,Non-Invasive,2,2.7
+Moraxella catarrhalis,Invasive,1,100
+Moraxella osloensis,Invasive,1,100
+Morganella morganii,Invasive,1,14.3
+Morganella morganii,Non-Invasive,6,85.7
+Neisseria gonorrhoeae,Non-Invasive,1,100
+Neisseria spp.,Invasive,1,50
+Neisseria spp.,Non-Invasive,1,50
+Pantoea spp.,Invasive,2,50
+Pantoea spp.,Non-Invasive,2,50
+Proteus mirabilis,Invasive,5,18.5
+Proteus mirabilis,Non-Invasive,22,81.5
+Proteus spp.,Invasive,2,8.7
+Proteus spp.,Non-Invasive,21,91.3
+Proteus vulgaris,Invasive,1,14.3
+Proteus vulgaris,Non-Invasive,6,85.7
+Providencia rettgeri,Non-Invasive,1,100
+Providencia stuartii,Non-Invasive,2,100
+Pseudomonas aeruginosa,Invasive,10,9.8
+Pseudomonas aeruginosa,Non-Invasive,92,90.2
+Pseudomonas luteola,Invasive,1,33.3
+Pseudomonas luteola,Non-Invasive,2,66.7
+Pseudomonas oryzihabitans,Non-Invasive,4,100
+Pseudomonas putida,Non-Invasive,1,100
+Pseudomonas spp.,Invasive,6,20.7
+Pseudomonas spp.,Non-Invasive,23,79.3
+Raoultella ornithinolytica,Invasive,1,10
+Raoultella ornithinolytica,Non-Invasive,9,90
+Salmonella Enteritidis,Invasive,1,100
+Salmonella Typhi,Invasive,1,100
+Salmonella enterica,Invasive,2,100
+Salmonella enterica subsp. enterica,Invasive,1,50
+Salmonella enterica subsp. enterica,Non-Invasive,1,50
+Salmonella spp.,Invasive,30,78.9
+Salmonella spp.,Non-Invasive,8,21.1
+Serratia ficaria,Non-Invasive,1,100
+Serratia fonticola,Non-Invasive,2,100
+Serratia liquefaciens,Non-Invasive,1,100
+Serratia marcescens,Non-Invasive,2,100
+Serratia odorifera,Invasive,1,100
+Shewanella putrefaciens,Invasive,1,100
+Shigella sonnei,Non-Invasive,1,100
+Shigella spp.,Non-Invasive,3,100
+Staphylococcus aureus,Invasive,97,34
+Staphylococcus aureus,Non-Invasive,188,66
+Staphylococcus saprophyticus,Non-Invasive,2,100
+Stenotrophomonas maltophilia,Invasive,1,14.3
+Stenotrophomonas maltophilia,Non-Invasive,6,85.7
+Streptococcus anginosus group,Invasive,2,50
+Streptococcus anginosus group,Non-Invasive,2,50
+Streptococcus gallolyticus,Invasive,1,100
+Streptococcus pneumoniae,Invasive,28,80
+Streptococcus pneumoniae,Non-Invasive,7,20
+Streptococcus spp.,Invasive,14,53.8
+Streptococcus spp.,Non-Invasive,12,46.2
+Trueperella bernardiae,Invasive,1,100
+Vibrio fluvialis,Invasive,1,25
+Vibrio fluvialis,Non-Invasive,3,75
+Vibrio parahaemolyticus,Non-Invasive,1,100
+Yeast spp.,Non-Invasive,2,100
